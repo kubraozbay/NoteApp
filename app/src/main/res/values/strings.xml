@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+
+    <string name="title">Title</string>
+    <string name="content">Content</string>
+    <string name="nothing_here">Nothing here</string>
+    <string name="add_note">Add Note</string>
+    <string name="notes">Notes</string>
+    <string name="edited">Edited</string>
+    <string name="note_deleted">Note Deleted!</string>
+    <string name="undo">UNDO</string>
+    <string name="error_empty_input">Please enter %1$s.</string>
+    <string name="error">Error</string>
+</resources>
