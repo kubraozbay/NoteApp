@@ -5,3 +5,4 @@
 - Navigation Component
 - Room
 - Lottie
+- UI & Instrumented Test
